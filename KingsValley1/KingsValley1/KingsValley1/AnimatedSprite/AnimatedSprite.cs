@@ -18,6 +18,7 @@ namespace KingsValley1
         private int[] xValue = { 0, 18, 36, 54, 72, 90, 108, 126 };
         protected int i = 0;
         private float timer = 0;
+        protected SpriteEffects effect = SpriteEffects.None;
 
         //Constructor
         public AnimatedSprite(Explorer explorer)
@@ -25,6 +26,7 @@ namespace KingsValley1
             this.explorer = explorer;
         }
 
+            
         //Update
         public virtual void Update(GameTime gameTime)
         {
@@ -49,7 +51,7 @@ namespace KingsValley1
                                        Color.White,
                                        0f,
                                        Vector2.Zero,
-                                       SpriteEffects.None,
+                                       this.effect,
                                        0f);
         }
     }

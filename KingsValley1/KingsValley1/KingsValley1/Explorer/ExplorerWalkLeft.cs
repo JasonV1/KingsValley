@@ -11,36 +11,38 @@ using Microsoft.Xna.Framework.Media;
 
 namespace KingsValley1
 {
-    public class ExplorerIdleRight : AnimatedSprite
+    public class ExplorerWalkLeft : AnimatedSprite
     {
         //Fields
         private Explorer explorer;
+        //Properties
 
         //Constructor
-        public ExplorerIdleRight(Explorer explorer) : base(explorer)
+        public ExplorerWalkLeft(Explorer explorer)
+            : base(explorer)
         {
             this.explorer = explorer;
-            this.i = 7;
+            this.effect = SpriteEffects.FlipHorizontally;
         }
 
+        //Update
         public override void Update(GameTime gameTime)
         {
-            if (Input.DetectKeyDown(Keys.Right))
+            this.explorer.Position -= new Vector2(this.explorer.Speed, 0f);
+            if (Input.DetectKeyUp(Keys.Left))
             {
-                this.explorer.State = this.explorer.WalkRight;
-            }
-            if (Input.DetectKeyDown(Keys.Left))
-            {
-                this.explorer.State = this.explorer.WalkLeft;
+                this.explorer.State = this.explorer.IdleLeft;
             }
             if (Input.DetectKeyDown(Keys.Space))
             {
-                this.explorer.State = this.explorer.IdleJumpRight;
-                this.explorer.IdleJumpRight.Initialize();
+                this.explorer.JumpLeft.Initialize();
+                this.explorer.State = this.explorer.JumpLeft;
+
             }
-            //base.Update(gameTime);
+            base.Update(gameTime);
         }
 
+        //Draw
         public override void Draw(GameTime gameTime)
         {
             base.Draw(gameTime);
