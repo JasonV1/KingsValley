@@ -76,6 +76,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AnimatedSprite\AnimatedSprite.cs" />
+    <Compile Include="ExplorerIdleJumpLeft.cs" />
     <Compile Include="ExplorerIdleJumpRight.cs" />
     <Compile Include="ExplorerJumpLeft.cs" />
     <Compile Include="ExplorerJumpRight.cs" />

@@ -27,6 +27,7 @@ namespace KingsValley1
         private ExplorerJumpRight jumpRight;
         private ExplorerJumpLeft jumpLeft;
         private ExplorerIdleJumpRight idleJumpRight;
+        private ExplorerIdleJumpLeft idleJumpLeft;
 
         //Properties
         public Vector2 Position
@@ -89,6 +90,10 @@ namespace KingsValley1
         {
             get { return this.idleJumpRight; }
         }
+        public ExplorerIdleJumpLeft IdleJumpLeft
+        {
+            get { return this.idleJumpLeft; }
+        }
 
         //Constructor
         public Explorer(KingsValley game, Vector2 position)
@@ -107,6 +112,7 @@ namespace KingsValley1
             this.jumpRight = new ExplorerJumpRight(this, 20, 32);
             this.jumpLeft = new ExplorerJumpLeft(this, 20, 32);
             this.idleJumpRight = new ExplorerIdleJumpRight(this, 20, 32);
+            this.idleJumpLeft = new ExplorerIdleJumpLeft(this, 20, 32);
             this.state = new ExplorerIdleRight(this);
         }
 

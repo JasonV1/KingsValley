@@ -1,0 +1,7 @@
+C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Explorer\explorer.xnb
+C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\KingsValley1.exe
+C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\KingsValley1.pdb
+C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\obj\x86\Debug\KingsValley1.exe
+C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\obj\x86\Debug\KingsValley1.pdb
