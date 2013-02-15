@@ -30,14 +30,16 @@ namespace KingsValley1
         private ExplorerIdleJumpLeft idleJumpLeft;
 
         //Properties
+        #region Properties
         public Vector2 Position
         {
             get { return this.position; }
-            set { 
-                    this.position = value;
-                    this.rectangle.X = (int)this.position.X;
-                    this.rectangle.Y = (int)this.position.Y;
-                }
+            set
+            {
+                this.position = value;
+                this.rectangle.X = (int)this.position.X;
+                this.rectangle.Y = (int)this.position.Y;
+            }
         }
         public float Speed
         {
@@ -93,7 +95,9 @@ namespace KingsValley1
         public ExplorerIdleJumpLeft IdleJumpLeft
         {
             get { return this.idleJumpLeft; }
-        }
+            set { this.idleJumpLeft = value; }
+        } 
+        #endregion
 
         //Constructor
         public Explorer(KingsValley game, Vector2 position)

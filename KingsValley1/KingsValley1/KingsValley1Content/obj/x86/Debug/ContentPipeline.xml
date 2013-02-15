@@ -8,7 +8,763 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Explorer\explorer.xnb</Output>
-      <Time>2013-02-05T08:46:50.2648725+01:00</Time>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bricks\Brick.png</Source>
+      <Name>Bricks\Brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Bricks\Brick.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bricks\Brick_transparant.png</Source>
+      <Name>Bricks\Brick_transparant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Bricks\Brick_transparant.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bricks\EmptySpace.png</Source>
+      <Name>Bricks\EmptySpace</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Bricks\EmptySpace.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Bricks\fundament.png</Source>
+      <Name>Bricks\fundament</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Bricks\fundament.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\0.png</Source>
+      <Name>Characters\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\0.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\1.png</Source>
+      <Name>Characters\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\1.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\2.png</Source>
+      <Name>Characters\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\2.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\3.png</Source>
+      <Name>Characters\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\3.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\4.png</Source>
+      <Name>Characters\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\4.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\5.png</Source>
+      <Name>Characters\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\5.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\6.png</Source>
+      <Name>Characters\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\6.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\7.png</Source>
+      <Name>Characters\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\7.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\8.png</Source>
+      <Name>Characters\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\8.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\9.png</Source>
+      <Name>Characters\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\9.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\a.png</Source>
+      <Name>Characters\a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\a.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\c.png</Source>
+      <Name>Characters\c</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\c.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\d.png</Source>
+      <Name>Characters\d</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\d.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\dash.png</Source>
+      <Name>Characters\dash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\dash.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\e.png</Source>
+      <Name>Characters\e</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\e.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\h.png</Source>
+      <Name>Characters\h</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\h.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\i.png</Source>
+      <Name>Characters\i</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\i.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\k.png</Source>
+      <Name>Characters\k</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\k.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\m.png</Source>
+      <Name>Characters\m</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\m.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\n.png</Source>
+      <Name>Characters\n</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\n.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\o.png</Source>
+      <Name>Characters\o</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\o.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\p.png</Source>
+      <Name>Characters\p</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\p.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\r.png</Source>
+      <Name>Characters\r</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\r.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\register.png</Source>
+      <Name>Characters\register</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\register.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\s.png</Source>
+      <Name>Characters\s</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\s.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\t.png</Source>
+      <Name>Characters\t</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\t.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\y.png</Source>
+      <Name>Characters\y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\y.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\zero.png</Source>
+      <Name>Characters\zero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Characters\zero.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\deurdicht.png</Source>
+      <Name>Door\deurdicht</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\deurdicht.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\deurhalfopen.png</Source>
+      <Name>Door\deurhalfopen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\deurhalfopen.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\deuropen.png</Source>
+      <Name>Door\deuropen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\deuropen.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\doortext.png</Source>
+      <Name>Door\doortext</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\doortext.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\linkerkantdeur.png</Source>
+      <Name>Door\linkerkantdeur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\linkerkantdeur.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\rechterdeur.png</Source>
+      <Name>Door\rechterdeur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\rechterdeur.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\switch.png</Source>
+      <Name>Door\switch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\switch.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\switchgeel.png</Source>
+      <Name>Door\switchgeel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\switchgeel.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\switchtransparant.png</Source>
+      <Name>Door\switchtransparant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\switchtransparant.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\switchwit.png</Source>
+      <Name>Door\switchwit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\switchwit.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door\transparantdoor.png</Source>
+      <Name>Door\transparantdoor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Door\transparantdoor.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Jewel\Jewel.png</Source>
+      <Name>Jewel\Jewel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Jewel\Jewel.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Jewel\LeftJewelRay.png</Source>
+      <Name>Jewel\LeftJewelRay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Jewel\LeftJewelRay.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Jewel\MidJewelRay.png</Source>
+      <Name>Jewel\MidJewelRay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Jewel\MidJewelRay.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Jewel\RightJewelRay.png</Source>
+      <Name>Jewel\RightJewelRay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Jewel\RightJewelRay.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Mummy\Mummy8spritesWhite.png</Source>
+      <Name>Mummy\Mummy8spritesWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Mummy\Mummy8spritesWhite.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Mummy\spawnMummy2SpritesWhite.png</Source>
+      <Name>Mummy\spawnMummy2SpritesWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Mummy\spawnMummy2SpritesWhite.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\collision_text.png</Source>
+      <Name>Stairs\collision_text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\collision_text.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\stairs_left.png</Source>
+      <Name>Stairs\stairs_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\stairs_left.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\stairs_top_left.png</Source>
+      <Name>Stairs\stairs_top_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\stairs_top_left.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\trapLeft01.png</Source>
+      <Name>Stairs\trapLeft01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\trapLeft01.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\trapLeft02.png</Source>
+      <Name>Stairs\trapLeft02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\trapLeft02.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\trapRight01.png</Source>
+      <Name>Stairs\trapRight01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\trapRight01.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\trapRight02.png</Source>
+      <Name>Stairs\trapRight02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\trapRight02.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\trapTopLeft01.png</Source>
+      <Name>Stairs\trapTopLeft01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\trapTopLeft01.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\trapTopLeft02.png</Source>
+      <Name>Stairs\trapTopLeft02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\trapTopLeft02.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\trapTopRight01.png</Source>
+      <Name>Stairs\trapTopRight01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\trapTopRight01.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Stairs\trapTopRight02.png</Source>
+      <Name>Stairs\trapTopRight02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Stairs\trapTopRight02.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\SwordInBrick.png</Source>
+      <Name>Sword\SwordInBrick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sword\SwordInBrick.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\axehacking.wav</Source>
+      <Name>Sound\axehacking</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\axehacking.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\botsingmummie.wav</Source>
+      <Name>Sound\botsingmummie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\botsingmummie.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\dooropen.wav</Source>
+      <Name>Sound\dooropen</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\dooropen.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\dooropensil.wav</Source>
+      <Name>Sound\dooropensil</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\dooropensil.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\einde.wav</Source>
+      <Name>Sound\einde</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\einde.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\exitdoortune.wav</Source>
+      <Name>Sound\exitdoortune</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\exitdoortune.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\exitleveltune.wav</Source>
+      <Name>Sound\exitleveltune</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\exitleveltune.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\falldownexplorer.wav</Source>
+      <Name>Sound\falldownexplorer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\falldownexplorer.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\falldownexplorersil.wav</Source>
+      <Name>Sound\falldownexplorersil</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\falldownexplorersil.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\falldownexplorersil123.wav</Source>
+      <Name>Sound\falldownexplorersil123</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\falldownexplorersil123.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\hackenmetaxesil.wav</Source>
+      <Name>Sound\hackenmetaxesil</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\hackenmetaxesil.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\HoofdmelodieKV1.wav</Source>
+      <Name>Sound\HoofdmelodieKV1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\HoofdmelodieKV1.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\iets.wav</Source>
+      <Name>Sound\iets</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\iets.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\intro.wav</Source>
+      <Name>Sound\intro</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\intro.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\pickaxesilence.wav</Source>
+      <Name>Sound\pickaxesilence</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\pickaxesilence.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\pickupjewelsilence.wav</Source>
+      <Name>Sound\pickupjewelsilence</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\pickupjewelsilence.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\pickupjewl.wav</Source>
+      <Name>Sound\pickupjewl</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\pickupjewl.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\pickupsword.wav</Source>
+      <Name>Sound\pickupsword</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\pickupsword.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\pickupswordsilence.wav</Source>
+      <Name>Sound\pickupswordsilence</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\pickupswordsilence.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\smallfalldown.wav</Source>
+      <Name>Sound\smallfalldown</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\smallfalldown.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\smallfalldownsil.wav</Source>
+      <Name>Sound\smallfalldownsil</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\smallfalldownsil.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawnmummie.wav</Source>
+      <Name>Sound\spawnmummie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\spawnmummie.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\spawnmummiesil.wav</Source>
+      <Name>Sound\spawnmummiesil</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Program Files\XNA\KingsValley\KingsValley\KingsValley1\KingsValley1\KingsValley1\bin\x86\Debug\Content\Sound\spawnmummiesil.xnb</Output>
+      <Time>2013-02-14T23:51:24+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
